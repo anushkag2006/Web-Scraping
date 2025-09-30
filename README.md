@@ -18,9 +18,9 @@ To ensure smooth execution, the script includes error handling to manage missing
 
 ## Product Information Extraction
 Key data points are retrieved as follows:
-Title: Extracted using a unique CSS selector.
-Price: Captured despite potential changes in the product page structure.
-Rating: Retrieved and formatted appropriately.
-Availability: Clearly indicates stock status.
+<br>Title: Extracted using a unique CSS selector.
+<br>Price: Captured despite potential changes in the product page structure.
+<br>Rating: Retrieved and formatted appropriately.
+<br>Availability: Clearly indicates stock status.
 
 
